@@ -5,3 +5,5 @@ NPM : 2306275752
 Kelas : PBP D
 
 Hobi : Tidur
+
+Jurusan : Ilmu Komputer
